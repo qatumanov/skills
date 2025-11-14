@@ -25,6 +25,8 @@
 
 > Демонстрация мобильной автоматизации Android через Appium (Pytest, POM).
 
+- `skills-UI-automation` (Appium + Pytest + Allure)
+
 ---
 
 ### 3. API‑тестирование
