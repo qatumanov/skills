@@ -15,7 +15,7 @@
 
 ### 1. UI / Web Automation
 
-> Примеры автотестов для веб‑приложений, Page Object Model, Pytest, структуру фреймворка и запуск.
+> Автотесты для веб‑приложений, Page Object Model, Pytest, структура фреймворка.
 
 - `skills-UI-automation` (Playwright + Pytest + Allure)
 
@@ -23,7 +23,7 @@
 
 ### 2. Mobile Automation (Appium)
 
-> Демонстрация мобильной автоматизации Android через Appium (Pytest, POM).
+> Мобильной автоматизация Android через Appium (Pytest, POM).
 
 - `skills-UI-automation` (Appium + Pytest + Allure)
 
