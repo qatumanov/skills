@@ -17,7 +17,7 @@
 
 > Автотесты для веб‑приложений, Page Object Model, Pytest, структура фреймворка.
 
-- `skills-UI-automation` (Playwright + Pytest + Allure)
+[- `skills-UI-automation` (Selenuim + Pytest + Allure)](https://github.com/qatumanov/SeleniumProjectEducation)
 
 ---
 
