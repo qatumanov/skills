@@ -13,7 +13,7 @@
 
 ## 🚀 Навыки по областям
 
-### 1. UI / Web Automation
+### 1. UI / Web / Mob automation
 
 > Автотесты для веб‑приложений, Page Object Model, Pytest, структура фреймворка.
 
@@ -21,11 +21,11 @@
 
 ---
 
-### 2. Mobile Automation (Appium)
+### 2. API automation
 
-> Мобильной автоматизация Android через Appium (Pytest, POM).
+> Пример проекта с по автоматизации API с библиотеками: requests и aiohttp.
 
-- `skills-UI-automation` (Appium + Pytest + Allure)
+[- `skills-API-automation` (Requests/Aiohttp + Pytest + Allure)](https://github.com/qatumanov/APIautotests)
 
 ---
 
